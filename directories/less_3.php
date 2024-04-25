@@ -1,4 +1,5 @@
 <a href="/">Главная</a><br><br>
+<a href="https://www.youtube.com/watch?v=DD20Yb7in3w" target="_blank">Урок 3 - Видео</a><br><br>
 
 <!--<a href="/pages/variables.php">Variables</a>-->
 <!--<br>-->
